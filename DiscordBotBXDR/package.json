@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "lowdb": "^5.0.5"
+    "lowdb": "^5.0.5",
+    "ytdl-core": "^4.11.2"
   }
 }
